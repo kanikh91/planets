@@ -1,0 +1,447 @@
+    1  cd Library/Caches
+    2  du -sk *
+    3  cd ..
+    4  ls
+    5  du -sk |sort -n
+    6  du -sk *|sort -n
+    7  cd Application\ 
+    8  du -sk *|sort -n
+    9  pwd
+   10  cd Application\ Support/
+   11  du -sk *|sort -n
+   12  cd MobileSync/
+   13  ls
+   14  cd Backup
+   15  ls
+   16  ls -l
+   17  cd *
+   18  ls
+   19  ls -ltr
+   20  ls
+   21  cd ..
+   22  ls
+   23  ls -l
+   24  cd ..
+   25  cd ..
+   26  cd ..
+   27  cd Updates
+   28  cd updates
+   29  ls /Volumes
+   30  ls /Volumes/My\ Passport\ for\ Mac/
+   31  cd Application\ Support/
+   32  ls
+   33  cd MobileSync/
+   34  ls
+   35  ls Backup/
+   36  ls -
+   37  ls 0l
+   38  ls -l
+   39  ls
+   40  ln -s  /Volumes/My\ Passport/iPhone\ 5\ Backups/Backup ~/Library/Application\ Support/MobileSync/Backup
+   41  ls
+   42  cd Backup
+   43  ls
+   44  ls /Volumes/My\ Passport/iPhone\ 5\ BackUps/
+   45  touch test
+   46  ls
+   47  cd ..
+   48  ls -l
+   49  ls
+   50  mv Backup Backup.orig
+   51  ln -s  /Volumes/My\ Passport/iPhone\ 5\ Backups/Backup ~/Library/Application\ Support/MobileSync/Backup
+   52  ls
+   53  ls -l
+   54  cd Backup
+   55  ls
+   56  touch test
+   57  touch hi
+   58  cd
+   59  top
+   60  kill 1079
+   61  top
+   62  top
+   63  kill 1239
+   64  top
+   65  top
+   66  top|grep key
+   67  top
+   68  kill 1361
+   69  top
+   70  kill 1246
+   71  top
+   72  ps auxw|grep key
+   73  ps auxw|grep Key
+   74  top
+   75  kill 1465
+   76  top
+   77  kill 1475
+   78  top
+   79  ps auxw|grep -i key
+   80  top
+   81  top
+   82  kill 1596
+   83  cd 
+   84  cd Library
+   85  ls
+   86  cd Keychains/
+   87  ls
+   88  ls -l
+   89  rm 6C306E85-5BC9-572D-9F5D-A21CF7572CF7/
+   90  rm -rf 6C306E85-5BC9-572D-9F5D-A21CF7572CF7/
+   91  ls -l
+   92  curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:UHJXjJcn2Eui --header "Content-Type: audio/flac" --header "Transfer-Encoding: chunked" --data-binary--data-binary @{path_to_file}audio-file.flac --data-binary @{path_to_file}audio-file.flac "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   93  curl -X POST -u {username}:{password} --header "Content-Type: audio/flac" --header "Transfer-Encoding: chunked" --data-binary @{path_to_file}audio-file.flac "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   94  curl -X POST -u {username}:{password} --header "Content-Type: audio/flac" --header "Transfer-Encoding: chunked" --data-binary @{path_to_file}audio-file.flac \
+   95  curl -X POST -u {username}:{password} curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:UHJXjJcn2Eui --header "Content-Type: audio/flac" --header "Transfer-Encoding: chunked" --data-binary @Downloads/audio-file.flac "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   96  curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:UHJXjJcn2Eui --header "Content-Type: audio/m4a" --header "Transfer-Encoding: chunked" --data-binary @Downloads/Interview1.m4a "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   97  curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:UHJXjJcn2Eui --header "Content-Type: audio/mp3" --header "Transfer-Encoding: chunked" --data-binary @Downloads/Interview1.mp3 "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   98  curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:HJXjJcn2Eui --header "Content-Type: audio/mp3" --header "Transfer-Encoding: chunked" --data-binary @Downloads/Interview2.mp3 "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+   99  POST /v1/recognize
+  100  curl -X POST -u 958b6ab4-edb7-47cf-9742-43ae54cfce64:HJXjJcn2Eui --header "Content-Type: audio/mp3" --data-binary @Downloads/Interview3.mp3 "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+  101  curl -X POST -u ea568ff1-4b36-44dd-b519-6523c043d6bf: 25kFqDTXfS3M --header "Content-Type: audio/mp3" --header "Transfer-Encoding: chunked" --data-binary @Downloads/Interview3.mp3 "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
+  102  cd Library/Application\ Support/
+  103  ls
+  104  cd MobileSync/
+  105  ls
+  106  ls Backup
+  107  ls -
+  108  cd Backup
+  109  ls -l
+  110  ls
+  111  ls -l
+  112  pwd
+  113  ls
+  114  ls -l
+  115  cd ../..
+  116  ls -l
+  117  cd MobileSync/
+  118  ls -l
+  119  cd ~/Library/Keychains
+  120  Is
+  121  ls
+  122  rm -rf 4CDB84F0-C91D-4377-ADBA-42D69895283C 
+  123  rm -rf 6C306E85-5BC9-572D-9F5D-A21CF7572CF7/
+  124  osascript -e 'tell application "System Events" to get the position of every window of process "Dock"' > /var/folders/jp/s7x8chn55fq8flmv_0_6kxzm0000gn/T/FE2701C2-8B59-4FD8-BFBD-53213C3A2B8D.txt
+  125  cd
+  126  pwd
+  127  cd Desktop
+  128  sftp 192.168.1.29
+  129  sftp carolyn@192.168.1.29
+  130  strings /Users/Kate/Desktop/partisancooperation_preanalysis.copy.pdf
+  131  strings /Users/Kate/Desktop/partisancooperation_preanalysis.copy.pdf | grep -i FontName
+  132  strings /Users/Kate/Desktop/partisancooperation_preanalysis.copy.pdf | grep -i FontName
+  133  strings /partisancooperation_preanalysis.copy.pdf | grep -i FontName
+  134  brew install poppler
+  135  $pdffont partisancooperation_preanalysis.copy.pdf
+  136  sudo dpkg –i brew install poppler
+  137  cd
+  138  pwd
+  139  cd Library
+  140  cd Application\ Support/
+  141  cd MobileSync/
+  142  cd Backup
+  143  pwd
+  144  cd
+  145  ls
+  146  vi phone-backup-path
+  147  more phone-backup-path 
+  148  vi phone-backup-path
+  149  cd /Users/Kate/Library/Application Support/MobileSync/Backup
+  150  pwd
+  151  cd /Users/Kate/Library/Application\ Support/MobileSync/Backup
+  152  pwd
+  153  cd Backup
+  154  ls
+  155  pwd
+  156  ls -l
+  157  ls
+  158  file *
+  159  stat *
+  160  env
+  161  sh
+  162  csh
+  163  tcsh
+  164  env
+  165  clear
+  166  env
+  167  ls
+  168  ls -l
+  169  ls
+  170  clr
+  171  clear
+  172  which R
+  173  which rstudio
+  174  nano
+  175  git
+  176  git -version
+  177  git --version
+  178  nano
+  179  ps auxw|grep dropbox
+  180  ps auxw
+  181  ps drop
+  182  ps -aux| grep drop
+  183  ps aux
+  184  ps aux|grep drop
+  185  kill 7032
+  186  ps aux|grep drop
+  187  ps aux|grep drop
+  188  r
+  189  cd
+  190  cd /Applications
+  191  ls
+  192  rm -rf CrashPlan.app/
+  193  sudo rm -rf CrashPlan.app/
+  194  ls
+  195  sudo rm -rf CrashPlan.app/
+  196  ls -l
+  197  ps auxw|grep -i crash
+  198  kill 10272
+  199  kill 10276
+  200  ps auxw|grep -i crash
+  201  ps auxw|grep -i crash
+  202  kill 5
+  203  kill 55
+  204  sudo kill 55
+  205  ps auxw|grep -i crash
+  206  ps auxw|grep -i crash
+  207  sudo rm -rf CrashPlan.app/
+  208  ls CrashPlan.app/
+  209  cd Cra
+  210  cd CrashPlan.app/
+  211  ls
+  212  ls -l
+  213  rm -rf Contents
+  214  sudo rm -rf Contents
+  215  cd /Applications/
+  216  ls
+  217  ls CrashPlan.app/
+  218  mv CrashPlan.app/ ~/Downloads
+  219  sudo mv CrashPlan.app/ ~/Downloads
+  220  ls
+  221  rm -r Contents
+  222  cd Contents
+  223  ls
+  224  pwd
+  225  ls
+  226  ls -la
+  227  pwd
+  228  cd ..
+  229  history
+  230  ls
+  231  chflags -R nouchg Contents
+  232  rmdir Contents
+  233  mv Contents ~
+  234  su root
+  235  ls -l Contents
+  236  ls
+  237  exit
+  238  cd /Applications/
+  239  ls
+  240  ls CrashPlan.app/
+  241  chflags -R nouchg CrashPlan.app/
+  242  sudo chflags -R nouchg CrashPlan.app/
+  243  sudo chflags -R nouchg CrashPlan.app/
+  244  sudo chflags -R nouchg
+  245  ls CrashPlan.app/
+  246  mv CrashPlan.app/ ~/crashtmp
+  247  cd CrashPlan.app/
+  248  ls
+  249  rm -r Contents
+  250  sudo -s
+  251  ls
+  252  ls -l
+  253  cd Contents
+  254  ls -la
+  255  whoami
+  256  su root
+  257  su root
+  258  sudo root
+  259  sudo -s
+  260  whoami
+  261  sudo -s
+  262  exit
+  263  ls
+  264  rm Contents
+  265  rmdir Contents
+  266  mv Contents /private/tmp
+  267  ls
+  268  file Contents
+  269  stat Contents
+  270  ls
+  271  chown 777 Contents
+  272  ls -l
+  273  rmdir Contents
+  274  pwd
+  275  touch junk
+  276  ls
+  277  cd Contents
+  278  ls
+  279  touch junk
+  280  ls
+  281  rm junk
+  282  ls
+  283  pwd
+  284  cd ..
+  285  ls -la
+  286  su root
+  287  sudo -s
+  288  ls
+  289  ls Applications
+  290  cd
+  291  cd .Trash
+  292  ls
+  293  cd
+  294  cd /Applications/
+  295  ls
+  296  ls /private/tmp
+  297  mv -R CrashPlan.app/ /private/tmp
+  298  mv -R CrashPlan.app/ /private/tmp/
+  299  cd CrashPlan.app/
+  300  ls
+  301  mv Contents/ /private/tmp
+  302  sudo mv Contents/ /private/tmp
+  303  su root
+  304  sudo -s
+  305  cd
+  306  pwd
+  307  ls -F
+  308  man ls
+  309  --help
+  310  ls --help
+  311  ls -a
+  312  ls -l
+  313  pwd
+  314  ls
+  315  ls -f
+  316  cd desktop
+  317  cd Desktop\ 
+  318  cd Desktop
+  319  cd
+  320  ls
+  321  cd Desktop/
+  322  ls
+  323  cd Desktop/data-shell
+  324  cd /Desktop/data-shell
+  325  cd /Desktop/
+  326  cd ls
+  327  cd
+  328  ls
+  329  cd Users/Kate/Desktop
+  330  cd /Users/Kate/Desktop
+  331  cd/data-shell
+  332  cd /data-shell
+  333  ls
+  334  cd data-shell
+  335  cd
+  336  pwd
+  337  cd Desktop
+  338  ls
+  339  cd data-shell
+  340  pwd
+  341  ls
+  342  ls -f
+  343  ls -F
+  344  mkdir thesis
+  345  ls -F
+  346  cd thesis
+  347  touch
+  348  touch draft.txt
+  349  ls -F
+  350  nano draft.txt
+  351  nano draft.txt
+  352  rm draft.txt
+  353  ls -F
+  354  cd ..
+  355  ls -F
+  356  rm -i thesis
+  357  rmdir thesis
+  358  ls -F
+  359  mkdir thesis
+  360  cd thesis
+  361  touch draft.txt
+  362  ls -F
+  363  cd ..
+  364  ls -F
+  365  rmdir thesis
+  366  rm -i thesis/draft.txt
+  367  cd thesis
+  368  ls -F
+  369  touch file1.txt
+  370  touch file2.txt
+  371  touch file3.txt
+  372  ls -F
+  373  cd ..
+  374  ls -F
+  375  rm -r -i thesis
+  376  mkdir thesi
+  377  rmdir thesi
+  378  mkdir thesis
+  379  ls -F
+  380  touch thesis/draft.txt
+  381  cd thessi
+  382  cd thesis
+  383  ls -F
+  384  mv draft.txt data-shell
+  385  cd ..
+  386  ls -F
+  387  cd thesis
+  388  ls -F
+  389  mv data-shell draft.txgt
+  390  mv draft.txgt draft.txt
+  391  ls -F
+  392  mv draft.txt data-shell/
+  393  mv draft.txt ../data-shell/
+  394  mv draft.txt ../
+  395  cd ..
+  396  ls -F
+  397  rm -i draft.txt
+  398  ls -F
+  399  cd data
+  400  ls -F
+  401  cp amino-acids.txt animals.txt morse.txt backup/
+  402  mkdir backup
+  403  cp amino-acids.txt animals.txt morse.txt backup/
+  404  ls -F
+  405  cd bakcup
+  406  cd backup
+  407  ls -F
+  408  cd ..
+  409  rm -r -i backup/
+  410  ls -F
+  411  cp *.txt backup/
+  412  cd backup
+  413  ls -F
+  414  rm - i *.txt
+  415  rm -i *.txt
+  416  lsd -F
+  417  ls -F
+  418  ls
+  419  cd ..
+  420  ls -F
+  421  cd
+  422  cd Desktop/data-shell
+  423  ls -F
+  424  cd molecules
+  425  ls -F
+  426  wc *.pdb
+  427  wc -l *.pdb > lengths.txt
+  428  ls -F
+  429  cat lengths.tct
+  430  cat lengths.txgt
+  431  cat lengths.txt
+  432  sort lengths.txt
+  433  sort lentghs.txt > lengths_sorted.txt
+  434  sort lengths.txt > lengths_sorted.txt
+  435  ls -F
+  436  cat lengths_sorted.txt
+  437  echo hello >> lengths.txt
+  438  cat lengths.txt
+  439  history
+  440  ~/Desktop.history1.txt
+  441  history ~/Desktop.history1.txt
+  442  history > ~/Desktop.history1.txt
+  443  cd ~/Desktop/
+  444  ls -F
+  445  head history1.txt
+  446  history ~/Desktop/history1.txt
+  447  history > ~/Desktop/history1.txt
